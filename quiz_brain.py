@@ -1,4 +1,5 @@
 import html
+from ui import QuizInterface
 
 class QuizBrain:
 
